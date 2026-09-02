@@ -1,0 +1,10 @@
+model,site,n_images,accuracy,precision_blocked,recall_blocked,f1_blocked,TP,TN,FP,FN
+Copilot 365,pooled,800,0.6112,0.7192,0.365,0.4842,146,343,57,254
+Copilot 365,Cornwall Bude Cedar Grove,400,0.5675,0.6667,0.27,0.3843,54,173,27,146
+Copilot 365,Brutondam,400,0.655,0.7541,0.46,0.5714,92,170,30,108
+GPT-5.6 Luna,pooled,800,0.6075,0.6547,0.455,0.5369,182,304,96,218
+GPT-5.6 Luna,Cornwall Bude Cedar Grove,400,0.5425,0.568,0.355,0.4369,71,146,54,129
+GPT-5.6 Luna,Brutondam,400,0.6725,0.7255,0.555,0.6289,111,158,42,89
+Claude Sonnet 5,pooled,800,0.5975,0.6037,0.5675,0.5851,227,251,149,173
+Claude Sonnet 5,Cornwall Bude Cedar Grove,400,0.56,0.5952,0.375,0.4601,75,149,51,125
+Claude Sonnet 5,Brutondam,400,0.635,0.608,0.76,0.6756,152,102,98,48
